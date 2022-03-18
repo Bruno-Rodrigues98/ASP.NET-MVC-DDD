@@ -17,13 +17,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - CrossCutting", "4.1 - CrossCutting", "{95FDF242-3B0F-45ED-91DA-72FD835A116C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDDD.mvc", "ModeloDDD.mvc\ModeloDDD.mvc.csproj", "{A3CBB61D-F6A1-4447-9A59-5B877DEE0158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModeloDDD.mvc", "ModeloDDD.mvc\ModeloDDD.mvc.csproj", "{A3CBB61D-F6A1-4447-9A59-5B877DEE0158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDDD.domain", "ModeloDDD.domain\ModeloDDD.domain.csproj", "{E1EE6E3C-7B91-4937-95A0-3ADFADA60F5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModeloDDD.domain", "ModeloDDD.domain\ModeloDDD.domain.csproj", "{E1EE6E3C-7B91-4937-95A0-3ADFADA60F5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDDD.infra.data", "ModeloDDD.infra.data\ModeloDDD.infra.data.csproj", "{ECF8C8C7-A873-4550-82B9-D0BC8DED1308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModeloDDD.infra.data", "ModeloDDD.infra.data\ModeloDDD.infra.data.csproj", "{ECF8C8C7-A873-4550-82B9-D0BC8DED1308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDDD.application", "ModeloDDD.application\ModeloDDD.application.csproj", "{43EABCBF-9B6C-42E7-BE71-1A588F98F9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModeloDDD.application", "ModeloDDD.application\ModeloDDD.application.csproj", "{43EABCBF-9B6C-42E7-BE71-1A588F98F9EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
