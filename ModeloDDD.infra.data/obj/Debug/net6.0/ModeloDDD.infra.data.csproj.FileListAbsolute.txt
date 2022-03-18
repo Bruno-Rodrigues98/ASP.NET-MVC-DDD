@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\bin\Debug\net6.0\ModeloDDD.infra.data.deps.json
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\bin\Debug\net6.0\ModeloDDD.infra.data.runtimeconfig.json
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\bin\Debug\net6.0\ModeloDDD.infra.data.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\bin\Debug\net6.0\ModeloDDD.infra.data.pdb
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\bin\Debug\net6.0\ModeloDDD.domain.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\bin\Debug\net6.0\ModeloDDD.domain.pdb
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\refint\ModeloDDD.infra.data.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.pdb
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ModeloDDD.infra.data.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.infra.data\obj\Debug\net6.0\ref\ModeloDDD.infra.data.dll

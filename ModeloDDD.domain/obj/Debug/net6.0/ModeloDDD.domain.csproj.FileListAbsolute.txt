@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\bin\Debug\net6.0\ModeloDDD.domain.deps.json
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\bin\Debug\net6.0\ModeloDDD.domain.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\bin\Debug\net6.0\ModeloDDD.domain.pdb
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\refint\ModeloDDD.domain.dll
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ModeloDDD.domain.pdb
+C:\Users\USUARIO\source\repos\ModeloDDD\ModeloDDD.domain\obj\Debug\net6.0\ref\ModeloDDD.domain.dll
